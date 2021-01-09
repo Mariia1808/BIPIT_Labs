@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Bipit51\Bipit51\bin\Debug\Bipit51.exe.config
+C:\Users\User\source\repos\Bipit51\Bipit51\bin\Debug\Bipit51.exe
+C:\Users\User\source\repos\Bipit51\Bipit51\bin\Debug\Bipit51.pdb
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Bipit51.Form1.resources
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Bipit51.Properties.Resources.resources
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Bipit51.exe
+C:\Users\User\source\repos\Bipit51\Bipit51\obj\Debug\Bipit51.pdb
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\bin\Debug\Bipit51.exe.config
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\bin\Debug\Bipit51.exe
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\bin\Debug\Bipit51.pdb
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Bipit51.Form1.resources
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Bipit51.Properties.Resources.resources
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Bipit51.exe
+C:\Users\Денис\Desktop\BIPIT-main\Bipit5\Bipit51\obj\Debug\Bipit51.pdb
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\bin\Debug\Bipit51.exe.config
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\bin\Debug\Bipit51.exe
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\bin\Debug\Bipit51.pdb
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Client.csprojAssemblyReference.cache
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Bipit51.Form1.resources
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Bipit51.Properties.Resources.resources
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Client.csproj.GenerateResource.cache
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Bipit51.exe
+D:\СЕМЕСТР 5\БИПИТ\BIPIT-main\BIPIT-main\Laba5\Bipit51\obj\Debug\Bipit51.pdb
